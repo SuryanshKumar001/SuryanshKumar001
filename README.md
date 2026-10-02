@@ -109,24 +109,6 @@ A disaster-management platform focused on providing early warnings and useful in
 
 ---
 
-## 💼 HireEasy — AI-Powered ATS
-
-An intelligent recruitment-oriented system designed to analyze candidate profiles and provide useful hiring-related insights.
-
-### Features
-
-* 📄 Resume/profile analysis
-* 🔎 Candidate information aggregation
-* 💻 GitHub profile analysis
-* 🧠 LeetCode profile analysis
-* 🔗 LinkedIn profile information
-* 📊 Candidate insights
-* 💡 Profile improvement suggestions
-
-**Focus:** Full-Stack Development • AI/ML • Recruitment Technology
-
----
-
 ## 🎬 Anime Info Explorer
 
 A web application for exploring anime information through a clean interactive interface.
